@@ -14,14 +14,12 @@ A minimal Python system info-fetcher that displays only essential information wi
 
 ### Via PyPI
 ```bash
-pip install snakrrr
+coming soon...
 ```
 
 ### From Source
 ```bash
-git clone https://github.com/Sharpnesse49/Snakrrr.git
-cd Snakrrr
-pip install -e .
+git clone https://github.com/Sharpnesse49/Snakrrr
 ```
 
 ## Usage
