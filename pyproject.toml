@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "snakrrr"
+version = "0.1.0"
+description = "A minimal python info-fetcher that display only useful info."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    { name = "Sharpnesse49" }
+]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Sharpnesse49/Snakrrr"
+
+[project.scripts]
+snakrrr = "snakrrr.main:main"
