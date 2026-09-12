@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "snakrrr"
 version = "0.1.0"
-description = "A minimal python info-fetcher that display only useful info."
+description = "A minimal Python system info-fetcher that displays only essential information without bloat."
 readme = "README.md"
 requires-python = ">=3.8"
 authors = [
